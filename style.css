@@ -1,0 +1,11 @@
+#parrafo_blue {
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+p.Navegador {
+    color: red;
+}
